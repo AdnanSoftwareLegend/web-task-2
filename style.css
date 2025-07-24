@@ -1,0 +1,60 @@
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.container {
+  max-width: 1140px;
+  margin: auto;
+}
+/* Banner  */
+.menu ul li a {
+  text-decoration: none;
+  font-size: large;
+  font-weight:500;
+  color:black;
+}
+
+
+
+
+
+.menu ul li {
+  list-style: none;
+  
+}
+
+.navber {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.menu ul {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+
+/* Banner  */
+
+.banner .banner-left  h1{
+
+    color:rgb(233, 90, 8);
+
+}
+.banner{
+    display: flex;
+    margin-top: 150px;
+    align-items:end;
+}
+
+
+.banner .banner-left{
+
+    
+ 
+
+}
