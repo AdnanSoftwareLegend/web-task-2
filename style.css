@@ -35,6 +35,14 @@
   margin-top: 20px;
 }
 
+.color-change{
+display: flex;
+gap: 10px;
+ color: rgb(182, 181, 189);
+ 
+}
+
+
 /* Banner  */
 
 .banner .banner-left h1 {
@@ -277,6 +285,7 @@
   font-size: 16px;
   font-weight: 400;
   height: auto;
+  margin-left: 30px;
 }
 .div-b {
   display: flex;
